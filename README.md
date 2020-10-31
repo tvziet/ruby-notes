@@ -1,3 +1,2 @@
-# Ruby notes
-====================================================================================================
-*(Author: Le Thanh Viet / vietleuit@gmail.com / Ho Chi Minh City 31-10-2020)*
+# Ruby Notes
+#### *(Author: Le Thanh Viet / vietleuit@gmail.com / Ho Chi Minh City 31-10-2020)*
